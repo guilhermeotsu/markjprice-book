@@ -1,0 +1,13 @@
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.exe
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.deps.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.runtimeconfig.dev.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\bin\Debug\netcoreapp3.1\Exercise02.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csprojAssemblyReference.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfoInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.AssemblyInfo.cs
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.csproj.CoreCompileInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Exercise02\obj\Debug\netcoreapp3.1\Exercise02.genruntimeconfig.cache

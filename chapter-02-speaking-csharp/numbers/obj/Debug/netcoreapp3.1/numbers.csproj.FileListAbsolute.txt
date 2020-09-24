@@ -1,0 +1,13 @@
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.csprojAssemblyReference.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfoInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfo.cs
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.csproj.CoreCompileInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\bin\Debug\netcoreapp3.1\numbers.exe
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\bin\Debug\netcoreapp3.1\numbers.deps.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.dev.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\bin\Debug\netcoreapp3.1\numbers.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\bin\Debug\netcoreapp3.1\numbers.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\numbers\obj\Debug\netcoreapp3.1\numbers.genruntimeconfig.cache

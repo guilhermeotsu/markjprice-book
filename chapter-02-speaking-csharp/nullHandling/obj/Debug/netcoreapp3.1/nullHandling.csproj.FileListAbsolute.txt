@@ -1,0 +1,13 @@
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.csprojAssemblyReference.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.AssemblyInfoInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.AssemblyInfo.cs
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.csproj.CoreCompileInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\bin\Debug\netcoreapp3.1\nullHandling.exe
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\bin\Debug\netcoreapp3.1\nullHandling.deps.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\bin\Debug\netcoreapp3.1\nullHandling.runtimeconfig.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\bin\Debug\netcoreapp3.1\nullHandling.runtimeconfig.dev.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\bin\Debug\netcoreapp3.1\nullHandling.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\bin\Debug\netcoreapp3.1\nullHandling.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\nullHandling\obj\Debug\netcoreapp3.1\nullHandling.genruntimeconfig.cache

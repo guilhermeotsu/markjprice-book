@@ -1,0 +1,13 @@
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.exe
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.deps.json
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.json
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.dev.json
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csprojAssemblyReference.cache
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfoInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfo.cs
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\src\dev\csharp\book-markjprice\chapter-03-controlling-flows-converting-types\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.genruntimeconfig.cache

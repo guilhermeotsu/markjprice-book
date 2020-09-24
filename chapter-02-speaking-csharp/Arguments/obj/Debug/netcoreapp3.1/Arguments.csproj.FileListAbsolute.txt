@@ -1,0 +1,13 @@
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\bin\Debug\netcoreapp3.1\Arguments.exe
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\bin\Debug\netcoreapp3.1\Arguments.deps.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\bin\Debug\netcoreapp3.1\Arguments.runtimeconfig.dev.json
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\bin\Debug\netcoreapp3.1\Arguments.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\bin\Debug\netcoreapp3.1\Arguments.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.csprojAssemblyReference.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfoInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.AssemblyInfo.cs
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.csproj.CoreCompileInputs.cache
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.dll
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.pdb
+C:\src\dev\csharp\book-markjprice\chapter-02-speaking-csharp\Arguments\obj\Debug\netcoreapp3.1\Arguments.genruntimeconfig.cache
