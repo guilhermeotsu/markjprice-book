@@ -53,3 +53,50 @@ switch(x) {
 ```
 
 Não faz sentido nenhum esse exemplo mas é apenas uma demonstraçao de como utlizar a sintaxe **goto**.
+
+
+## Convertendo tipos
+
+Quando estiver desenvolvendo você vai precisar converter diferentes tpos de dados entre si, sejam para necessidade de fazer calculos, ou como os dados estão sendo armazenados. Por exemplo, com o Console.ReadLine() que captura o input do usuário, o valor que ele retorna é uma string, mas muitas vezes precisamos converte-los em números, datas, etc, para realizar um tarefa.
+
+Existem dois tipos de conversao de dados, os **implícitos** e os **explícitos**:
+  * Implícitos: acontece automaticamente, e isso é seguro, isso significa que voce nao perdera nenhum informaçao.
+  * Explícitos: é feita de forma manual delo dev porque isso **poderá** resultar na perde da alguma informaçao, como por exemplo, na precisão de um número. 
+
+  
+  ### Arredondamento de valores
+  
+  Dentro do C# temos a classe Convert, que tem uma série de métodos para fazer a conversão de valores explícitos, mas ao invés de lidar com a perda de valores na conversao convencional a class Convert arredonda os valores numericos, para cima ou para baixo.
+
+  **Regras para arredondamento do Convert:**
+  * Sempre arredonda para baixo se o valor decimal for menor que .5
+  * Sempre arredonda para cima se o valor decimal for maior que .5
+  * Quando a parte decimal for .5, vai arredondar para cima quando a parte nao decimal for ímpar, e para baixo quando for par.
+
+  É possível controlar o arredondamento disso com o método Round da classe Math
+
+## Capturando Exceçoes
+
+Durante o desenvolvimento de algoritmos, nos deparamos com exceçoes lançadas pelo compilador, toda as exceçoes herdam de Exception, ela e o tipo mais generico de exceçao, mas se queremos tratar exceçao de uma forma menos generica, temos outras classes que a implementam.
+
+
+## Clausula checked e unchecked
+
+Por padrao variaveis do tipo inteiro nao lançam exceçoes caso voce tente atribuir um valor que ela nao suporta, exemplo: 
+
+```C#
+int x = int.MaxValue - 1;
+
+x++;
+x++;
+x++;
+```
+
+Isso nao vai lançar exceçao, mas muitas vezes queremos que lance para podemos tratar, entao utilizamos o **checked**.
+
+```C#
+int x = int.MaxValue + 10;
+```
+Vai lançar um OverflowException, que pode ser tratado com o try{}catch(){}.
+
+Para desabilitar a checagem do compile-time, utilizamos a clausula **unchecked**, permitindo que voce escreve algo como, ```C# int x = int.MaxValue + 10;```.
