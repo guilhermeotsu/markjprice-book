@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Packt.CS8.Otsu.SharedLibrary</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Authors>Otsu</Authors>
+    <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptace>true</PackageRequireLicenseAcceptace>
+    <PackageReleaseNotes>Example shared Library</PackageReleaseNotes>
+    <Description>Tres métodos para validação de string</Description>
+    <PackageTags>string extension packt cs8</PackageTags>
+  </PropertyGroup>
+</Project>
