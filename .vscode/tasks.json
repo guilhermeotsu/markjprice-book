@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/chapter-03-controlling-flows-converting-types/CastingConverting/CastingConverting.csproj",
+                "${workspaceFolder}/chapter-08-working-with-common-dotnet-types/WorkingWithNumbers/WorkingWithNumbers.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/chapter-03-controlling-flows-converting-types/CastingConverting/CastingConverting.csproj",
+                "${workspaceFolder}/chapter-08-working-with-common-dotnet-types/WorkingWithNumbers/WorkingWithNumbers.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/chapter-03-controlling-flows-converting-types/CastingConverting/CastingConverting.csproj",
+                "${workspaceFolder}/chapter-08-working-with-common-dotnet-types/WorkingWithNumbers/WorkingWithNumbers.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

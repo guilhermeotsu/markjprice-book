@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/chapter-03-controlling-flows-converting-types/CastingConverting/bin/Debug/netcoreapp3.1/CastingConverting.dll",
+            "program": "${workspaceFolder}/chapter-08-working-with-common-dotnet-types/WorkingWithNumbers/bin/Debug/netcoreapp3.1/WorkingWithNumbers.dll",
             "args": [],
             "cwd": "${workspaceFolder}/chapter-03-controlling-flows-converting-types/CastingConverting",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
