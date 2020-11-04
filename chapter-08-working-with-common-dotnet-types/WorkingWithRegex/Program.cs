@@ -12,7 +12,8 @@ namespace WorkingWithRegex
             string input = ReadLine();
 
             // @ faz com que caracteres de scape nao funcionem
-            var ageChecked = new Regex(@"\d");
+            // permite qualquer numero a partir de 0
+            var ageChecked = new Regex(@"^\d+$");
 
             if(ageChecked.IsMatch(input))
             {
