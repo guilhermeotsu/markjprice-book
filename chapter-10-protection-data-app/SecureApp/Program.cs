@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security;
 using System.Security.Claims;
 using System.Threading;
 using CryptographyLib;
@@ -41,15 +42,44 @@ namespace SecureApp
             WriteLine($"IsInRole(\"Dev\"): {principal.IsInRole("Dev")}");
             WriteLine($"IsInRole(\"Infra\"): {principal.IsInRole("Infra")}");
 
-            if(principal is ClaimsPrincipal)
+            if (principal is ClaimsPrincipal)
             {
                 WriteLine($"{principal.Identity.Name} tem os seguintes claims: ");
-                
+
                 foreach (Claim claim in (principal as ClaimsPrincipal).Claims)
                 {
                     WriteLine($"{claim.Type}: {claim.Value}");
-                } 
+                }
             }
+
+            try
+            {
+                SecureFeature();
+            }
+            catch (Exception ex)
+            {
+                WriteLine($"{ex.GetType()}: {ex.Message}");
+            }
+        }
+
+        /// <summary>
+        /// Verifica se o usuario é anonimo ou nao está dentro de uma role
+        /// </summary>
+        static void SecureFeature()
+        {
+            var principal = Thread.CurrentPrincipal;
+
+            if (ReferenceEquals(principal, null))
+            {
+                throw new SecurityException("O usuário precisa estar logado para acessar essa feature");
+            }
+
+            if (!principal.IsInRole("Admins"))
+            {
+                throw new SecurityException("O usuário não tem permissão para acessar essa feature");
+            }
+
+            WriteLine("O usuário tem permissão para acessar essa feature!");
         }
     }
 }
